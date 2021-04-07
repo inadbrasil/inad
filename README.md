@@ -76,4 +76,4 @@ Por ora temos:
 ##
   
 
-#INAD #INADBrasil #som #audição #acústica #fono #fonoaudiologia #saúde #E
+#INAD #INADBrasil #som #audição #acústica #fono #fonoaudiologia #saúde #EAC
