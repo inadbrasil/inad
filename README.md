@@ -31,6 +31,7 @@ Siga a gente nas redes sociais e republique nossos materiais.
 -   [Facebook](https://facebook.com/inad.brasil)
 -   [Github](https://github.com/inadbrasil/inad)
 -   [Twitter](https://twitter.com/intent/user?screen_name=INADBrasil)
+-   [ResearchGate](https://www.researchgate.net/project/Dia-Internacional-de-Conscientizacao-sobre-o-Ruido-INAD-Brasil)
 
 ##
   
