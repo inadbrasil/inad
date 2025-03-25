@@ -14,6 +14,10 @@ Fiquem ligados, aos poucos todos os materiais (desde 2008) serão colocados por 
 Por ora, temos:
 • [Este repositório que direciona para os materiais de todos os anos](https://github.com/inadbrasil/inad);
 
+• [**Materiais do INAD Brasil 2025**](https://github.com/inadbrasil/inad2025); ❤
+
+• [**Materiais do INAD Brasil 2024**](https://github.com/inadbrasil/inad2024); 🔊
+
 • [**Materiais do INAD Brasil 2023**](https://github.com/inadbrasil/inad2023); 🎧
 
 • [Materiais do INAD Brasil 2022](https://github.com/inadbrasil/inad2022); 🔊
